@@ -25,7 +25,7 @@ Heart_rate = st.number_input("Patient's Heart rate",value=None)
 Systolic_blood_pressure = st.number_input("Patient's Systolic blood pressure",value=None)
 Diastolic_blood_pressure = st.number_input("Patient's Diastolic blood pressure",value=None)
 Blood_sugar = st.number_input("Patient's Blood sugar",value=None)
-CK-MB = st.number_input("Patient's CK-MB",value=None)
+CK_MB = st.number_input("Patient's CK-MB",value=None)
 
 
 

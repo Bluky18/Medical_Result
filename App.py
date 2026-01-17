@@ -29,8 +29,6 @@ Ck_MB = st.number_input("Patient's CK-MB",value=None)
 Troponin = st.number_input("Patient's Troponin level",value=None)
 
 
-
-Troponin
 if st.button('Predict'):
   input_data = np.array([[Age,
                           Gender,

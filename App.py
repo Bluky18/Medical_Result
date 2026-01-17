@@ -26,7 +26,7 @@ Systolic_blood_pressure = st.number_input("Patient's Systolic blood pressure",va
 Diastolic_blood_pressure = st.number_input("Patient's Diastolic blood pressure",value=None)
 Blood_sugar = st.number_input("Patient's Blood sugar",value=None)
 Ck_MB = st.number_input("Patient's CK-MB",value=None)
-
+Troponin = st.number_input("Patient's Troponin level",value=None)
 
 
 
